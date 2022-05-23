@@ -1,6 +1,6 @@
 {
     "name": "java_gradle",
-    "workspaceFolder": "/src",
+    "workspaceFolder": "/java_project",
     "dockerComposeFile": "../docker-compose.yml",
     "settings": { 
         // Macの場合
