@@ -31,3 +31,13 @@ gradle init
 ```
 ./gradlew run
 ```
+
+クリーン
+```
+gradle clean
+```
+
+ビルド
+```
+gradle build
+```
